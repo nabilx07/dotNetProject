@@ -1,0 +1,19 @@
+c:\users\devnabil\documents\visual studio 2010\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.dll
+c:\users\devnabil\documents\visual studio 2010\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.pdb
+c:\users\devnabil\documents\visual studio 2010\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.dll
+c:\users\devnabil\documents\visual studio 2010\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.pdb
+C:\Users\devNabil\documents\visual studio 2010\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Recaptcha.pdb
+C:\Users\devNabil\documents\visual studio 2010\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.csprojResolveAssemblyReference.cache
+C:\Users\devNabil\Documents\Visual Studio 2012\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.dll
+C:\Users\devNabil\Documents\Visual Studio 2012\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.pdb
+C:\Users\devNabil\Documents\Visual Studio 2012\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Recaptcha.pdb
+C:\Users\devNabil\Documents\Visual Studio 2012\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.csprojResolveAssemblyReference.cache
+C:\Users\devNabil\Documents\Visual Studio 2012\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.dll
+C:\Users\devNabil\Documents\Visual Studio 2012\Projects\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.pdb
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.dll.config
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.dll
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Penerangan.Emedia2u.Web.pdb
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\bin\Recaptcha.pdb
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.dll
+C:\Users\user\Desktop\emedia2u\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\Penerangan.Emedia2u.Web\obj\Debug\Penerangan.Emedia2u.Web.pdb

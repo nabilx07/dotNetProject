@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Penerangan.Emedia2u.Web.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    <asp:Image ID="Image1" runat="server" Height="136px" ImageUrl="~/Logo/LOGO.png" 
+                        Width="489px" />
+                </h1>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" IncludeStyleBlock="false" Orientation="Horizontal" ViewStateMode="Enabled" Visible="true">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Borang/MediaRasmi.aspx" Text="Media Rasmi"/>
+                        <asp:MenuItem NavigateUrl="~/Borang/MediaTempatan.aspx" Text="Media Tempatan"/>
+                        <asp:MenuItem NavigateUrl="~/Borang/KKMMJaPen.aspx" Text="KKMM/JaPen"/>
+                        <asp:MenuItem NavigateUrl="~/Borang/MediaLuarNegara.aspx" Text="Media Luar Negara"/>
+                        <asp:MenuItem NavigateUrl="~/Borang/MediaDalamTalian.aspx" Text="Media Dalam Talian"/>
+                        <asp:MenuItem NavigateUrl="~/SyaratMemohon.aspx" Text="Syarat - syarat permohonan"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        <asp:ContentPlaceHolder ID="FootContent" runat="server" />
+          <div class="clear hideSkiplink" >
+             <div class="footerText">
+                 Site.2015.01.Beta
+             </div>
+                
+            </div>
+    </div>
+    </form>
+</body>
+</html>
